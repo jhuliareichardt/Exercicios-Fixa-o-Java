@@ -13,5 +13,6 @@ public class Exercicio1 {  // Declara a classe chamada Exercicio1
     System.out.println("Sensor " + nomeSensor + " registrado com o valor de " + valorSensor + " unidades.");
         // Exibe os dados na tela
 scanner.close();  //fecha scanner
+     System.out.println("Lais e Julia chatas demaisee");
  }
 }
